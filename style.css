@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ob div{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 13px;
+    color: #fff;
+    text-align: center;
+}
+
+.ob div p{
+    padding-top: 20px;  
+}
+
+body{
+    background-image: url(./background.png);
+    background-size: 100%;
+}  
+
+.ob{
+    width: 750px;
+    height: 260px;
+    background: #dff235;
+    background: linear-gradient(90deg, rgba(223, 242, 53, 1) 0%, rgba(189, 108, 51, 1) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 6px;
+    margin: 0 auto;
+    margin-top: 160px;
+}
+
+h1{
+    font-size: 50px ;
+}
